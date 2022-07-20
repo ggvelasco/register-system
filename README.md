@@ -4,5 +4,5 @@
 
 To run this app you must type:
 ```
-npm install react
+node app.js
 ```
